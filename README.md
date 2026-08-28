@@ -1,43 +1,33 @@
 # ServFlow
-A modern FTP &amp; SFTP server for Android with configurable ports, persistent credentials, network interface selection, and a clean dark UI.
 
-# ServFlow
+> A modern SFTP server for Android.
 
-> A modern FTP & SFTP server for Android.
-
-ServFlow allows you to run FTP and SFTP file servers directly from your Android device. It provides a simple interface for starting and managing servers while giving you control over network interfaces, IP addresses, ports, and authentication.
+ServFlow allows you to run an SFTP file server directly from your Android device. It provides a simple and modern interface for starting and managing your server while giving you control over network interfaces, IP addresses, ports, and authentication.
 
 ## ✨ Features
 
-* 📁 FTP server support
 * 🔐 SFTP server support
 * 🌐 Network interface and IP address selection
-* 🔌 Custom FTP and SFTP ports
+* 🔌 Custom SFTP port
 * 👤 Configurable username and password
-* 💾 Persistent server configuration
+* 💾 Persistent credentials and server configuration
 * ▶️ Simple start and stop controls
 * 📊 Server status and connection information
 * ⚙️ Advanced server settings
 * 🎨 Modern dark glassmorphic interface
 
-## 📱 Screenshots
+## 📱 Preview
 
-Screenshots will be added as the project develops.
+Screenshots coming soon.
 
 <!--
-Example:
+After uploading screenshots, replace this section with:
 
 <p align="center">
   <img src="docs/images/home.png" width="250">
   <img src="docs/images/settings.png" width="250">
 </p>
 -->
-
-## 🚀 Installation
-
-Download the latest APK from the [Releases](../../releases) page and install it on your Android device.
-
-You may need to allow installation from unknown sources depending on your Android version and device settings.
 
 ## 🛠️ Building from Source
 
@@ -53,7 +43,7 @@ You may need to allow installation from unknown sources depending on your Androi
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ServFlow.git
+git clone https://github.com/LeoAndres11/ServFlow.git
 ```
 
 Open the project in Android Studio and allow Gradle to sync.
@@ -72,9 +62,8 @@ app/build/outputs/apk/debug/
 
 ## ⚙️ Configuration
 
-ServFlow allows configuration of:
+ServFlow allows you to configure:
 
-* FTP port
 * SFTP port
 * Username
 * Password
@@ -82,33 +71,19 @@ ServFlow allows configuration of:
 * IP address binding
 * Server startup options
 
-Configuration remains saved until manually changed.
+Your username, password, and server configuration remain saved until you manually change them.
 
 ## 🔒 Security
 
-Running an FTP or SFTP server exposes files and network services on your device.
+Running an SFTP server makes files on your device accessible over a network.
 
 Please:
 
 * Use a strong password.
-* Prefer SFTP when possible.
+* Only share your server with trusted users.
 * Avoid exposing the server directly to the public internet unless you understand the security implications.
 * Only grant the app access to files you intend to share.
-* Review your network and firewall configuration.
-
-## 🗺️ Roadmap
-
-
-* [ ] FTP server
-* [ ] SFTP server
-* [ ] Network interface selection
-* [ ] Custom IP binding
-* [ ] Persistent configuration
-* [ ] Server activity logs
-* [ ] Connected client information
-* [ ] File access controls
-* [ ] Background service support
-* [ ] Material You customization
+* Review your network and firewall configuration before allowing external connections.
 
 ## 🤝 Contributing
 
@@ -122,13 +97,4 @@ Contributions, bug reports, feature requests, and improvements are welcome.
 
 For major changes, please open an issue first to discuss the proposed change.
 
-## 📄 License
-
-This project is licensed under the GNU General Public License v3.0.
-
-See the [LICENSE](LICENSE) file for details.
-
----
-
-**ServFlow** — Simple, secure file serving from Android.
 
