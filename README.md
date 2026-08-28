@@ -1,10 +1,8 @@
-# ServFlow
+<img width="706" height="1461" alt="5" src="https://github.com/user-attachments/assets/33827360-1dd4-4579-ad7e-cc51945421cb" /><img width="706" height="1455" alt="4" src="https://github.com/user-attachments/assets/3e20c1ec-f91a-47b8-b05b-b5cdf48f72aa" /><img width="706" height="1463" alt="3" src="https://github.com/user-attachments/assets/9ee0b5be-f5fa-481e-9502-c7e8622edfb9" /># ServFlow
 
 > A modern SFTP server for Android.
 
 ServFlow allows you to run an SFTP file server directly from your Android device. It provides a simple and modern interface for starting and managing your server while giving you control over network interfaces, IP addresses, ports, and authentication.
-
-> 🚧 **ServFlow is currently under active development.** Features, functionality, and the user interface may change as the project continues to evolve.
 
 ## ✨ Features
 
@@ -20,7 +18,13 @@ ServFlow allows you to run an SFTP file server directly from your Android device
 
 ## 📱 Preview
 
-Screenshots coming soon.
+<img width="706" height="1464" alt="1" src="https://github.com/user-attachments/assets/b2aa2112-4a8f-4669-95a1-a1640d95b1a7" />
+<img width="706" height="1459" alt="2" src="https://github.com/user-attachments/assets/9d846d69-cbe0-4e7d-b2c3-1ead51605d52" />
+<img width="706" height="1463" alt="3" src="https://github.com/user-attachments/assets/5e44f6fe-ebe6-4991-98b5-497d8f284fe1" />
+<img width="706" height="1455" alt="4" src="https://github.com/user-attachments/assets/b876c0a1-dd94-47fa-a926-67d760131c39" />
+<img width="706" height="1461" alt="5" src="https://github.com/user-attachments/assets/0bcf01bd-3cb0-4562-8726-bb0b0740d64c" />
+<img width="706" height="1471" alt="6" src="https://github.com/user-attachments/assets/3a1544be-b203-4f87-ab8a-afdeaed96f6c" />
+
 
 ## 🛠️ Building from Source
 
