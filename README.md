@@ -4,6 +4,8 @@
 
 ServFlow allows you to run an SFTP file server directly from your Android device. It provides a simple and modern interface for starting and managing your server while giving you control over network interfaces, IP addresses, ports, and authentication.
 
+> 🚧 **ServFlow is currently under active development.** Features, functionality, and the user interface may change as the project continues to evolve.
+
 ## ✨ Features
 
 * 🔐 SFTP server support
@@ -19,15 +21,6 @@ ServFlow allows you to run an SFTP file server directly from your Android device
 ## 📱 Preview
 
 Screenshots coming soon.
-
-<!--
-After uploading screenshots, replace this section with:
-
-<p align="center">
-  <img src="docs/images/home.png" width="250">
-  <img src="docs/images/settings.png" width="250">
-</p>
--->
 
 ## 🛠️ Building from Source
 
@@ -97,4 +90,14 @@ Contributions, bug reports, feature requests, and improvements are welcome.
 
 For major changes, please open an issue first to discuss the proposed change.
 
+## 📄 License
 
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
+
+You are free to use, modify, and distribute this project under the terms of the GPL-3.0 license. Any distributed modifications or derivative works must also be licensed under GPL-3.0.
+
+See the [LICENSE](LICENSE) file for more details.
+
+---
+
+Built with passion by — Arif Khan ❤️
