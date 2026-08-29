@@ -62,12 +62,9 @@ Whether you need a traditional FTP connection, secure SFTP access, or simply wan
 ---
 ## 📸 Screenshots
 
+### 🖥️ Dashboard
+
 <div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="50%">
 
 <table>
 <tr>
@@ -76,7 +73,7 @@ Whether you need a traditional FTP connection, secure SFTP access, or simply wan
 <br>
 
 <img src="https://github.com/user-attachments/assets/fb3839ce-cb9a-411f-a3b4-5e883c0594eb"
-  width="300"
+  width="330"
   alt="ServFlow Dashboard">
 
 <br><br>
@@ -85,13 +82,15 @@ Whether you need a traditional FTP connection, secure SFTP access, or simply wan
 </tr>
 </table>
 
-### 🖥️ Dashboard
+</div>
 
-SFTP dashboard with server status, activity, and overall server overview.
+ServFlow's dashboard provides a complete overview of the server, including **SFTP status, server activity, and overall server information**.
 
-</td>
+---
 
-<td align="center" width="50%">
+### 🌐 HTTPS Web Share
+
+<div align="center">
 
 <table>
 <tr>
@@ -100,7 +99,7 @@ SFTP dashboard with server status, activity, and overall server overview.
 <br>
 
 <img src="https://github.com/user-attachments/assets/0169bf48-71e1-4501-a1ac-ed10f2a95d45"
-  width="300"
+  width="330"
   alt="ServFlow HTTPS Web Share">
 
 <br><br>
@@ -109,17 +108,15 @@ SFTP dashboard with server status, activity, and overall server overview.
 </tr>
 </table>
 
-### 🌐 HTTPS Web Share
+</div>
 
-Run and monitor your HTTPS Web Share directly from ServFlow.
+Start and monitor the **HTTPS Web Share** directly from ServFlow and access shared files through a modern web browser.
 
-</td>
+---
 
-</tr>
+### 🔌 Server & Authentication
 
-<tr>
-
-<td align="center" width="50%">
+<div align="center">
 
 <table>
 <tr>
@@ -128,8 +125,8 @@ Run and monitor your HTTPS Web Share directly from ServFlow.
 <br>
 
 <img src="https://github.com/user-attachments/assets/a84c20e0-8002-4c64-b924-1c1162902b83"
-  width="300"
-  alt="ServFlow Server Configuration">
+  width="330"
+  alt="ServFlow Server and Authentication">
 
 <br><br>
 
@@ -137,13 +134,15 @@ Run and monitor your HTTPS Web Share directly from ServFlow.
 </tr>
 </table>
 
-### 🔌 Server & Authentication
+</div>
 
-Configure FTP, SFTP, and HTTPS ports with username and password authentication.
+Configure **FTP, SFTP, and HTTPS ports**, select server operations, and protect access with **username and password authentication**.
 
-</td>
+---
 
-<td align="center" width="50%">
+### 📋 Server Logs
+
+<div align="center">
 
 <table>
 <tr>
@@ -152,8 +151,8 @@ Configure FTP, SFTP, and HTTPS ports with username and password authentication.
 <br>
 
 <img src="https://github.com/user-attachments/assets/1491b20c-5889-422c-b86a-093f37fa8f5f"
-  width="300"
-  alt="ServFlow Logs">
+  width="330"
+  alt="ServFlow Server Logs">
 
 <br><br>
 
@@ -161,17 +160,15 @@ Configure FTP, SFTP, and HTTPS ports with username and password authentication.
 </tr>
 </table>
 
-### 📋 Server Logs
+</div>
 
-View All, Success, Info, Warning, and Error server events.
+Monitor server activity with organized logs for **All, Success, Info, Warning, and Error** events.
 
-</td>
+---
 
-</tr>
+### ⚙️ Configuration
 
-<tr>
-
-<td align="center" width="50%">
+<div align="center">
 
 <table>
 <tr>
@@ -180,7 +177,7 @@ View All, Success, Info, Warning, and Error server events.
 <br>
 
 <img src="https://github.com/user-attachments/assets/afce3104-e2ae-4fd9-b369-7ada8ea20174"
-  width="300"
+  width="330"
   alt="ServFlow Configuration">
 
 <br><br>
@@ -189,13 +186,15 @@ View All, Success, Info, Warning, and Error server events.
 </tr>
 </table>
 
-### ⚙️ Configuration
+</div>
 
-Manage storage root, SSH host keys, encryption, and public key authentication.
+Manage the **storage root directory**, SSH daemon **host keys and encryption**, and **public key authentication** from the configuration panel.
 
-</td>
+---
 
-<td align="center" width="50%">
+### 🛠️ Advanced Settings
+
+<div align="center">
 
 <table>
 <tr>
@@ -204,7 +203,7 @@ Manage storage root, SSH host keys, encryption, and public key authentication.
 <br>
 
 <img src="https://github.com/user-attachments/assets/0c41c7ec-84eb-47ae-8276-be2528b3a386"
-  width="300"
+  width="330"
   alt="ServFlow Advanced Settings">
 
 <br><br>
@@ -213,16 +212,13 @@ Manage storage root, SSH host keys, encryption, and public key authentication.
 </tr>
 </table>
 
-### 🛠️ Advanced Settings
+</div>
 
-Configure anonymous login, read-only mode, and interface accent colors.
+Fine-tune ServFlow with **anonymous login, read-only mode**, and customizable **accent colors**.
 
-</td>
+---
 
-</tr>
-</table>
-
-<br>
+<div align="center">
 
 ### 🚀 One Application. Three Protocols.
 
@@ -230,7 +226,6 @@ Configure anonymous login, read-only mode, and interface accent colors.
 
 </div>
 
----
 
 
 
