@@ -281,6 +281,10 @@ ServFlow is built with a simple idea:
 
 ---
 
-## 📄 License
+📌 GPL-3.0 Requirements
 
-This project is currently under development.
+If you distribute ServFlow or a modified version of it, you must comply with the terms of the GPL-3.0 license, including providing the corresponding source code and keeping the same license for derivative works where required by the license.
+
+ServFlow is provided without warranty, as permitted by the GPL-3.0.
+
+---
