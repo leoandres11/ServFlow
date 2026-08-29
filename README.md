@@ -66,99 +66,159 @@ Whether you need a traditional FTP connection, secure SFTP access, or simply wan
 
 <table>
 <tr>
-<td align="center" width="50%" bgcolor="#0d1117">
+
+<td align="center" width="50%">
+
+<table>
+<tr>
+<td align="center" bgcolor="#161b22">
+
+<br>
 
 <img src="https://github.com/user-attachments/assets/fb3839ce-cb9a-411f-a3b4-5e883c0594eb"
-  width="340"
-  alt="ServFlow Dashboard"
-  style="border-radius: 18px;">
+  width="300"
+  alt="ServFlow Dashboard">
 
 <br><br>
+
+</td>
+</tr>
+</table>
 
 ### 🖥️ Dashboard
 
-Monitor your ServFlow server from one place with an overview of **SFTP, server status, connections, and overall activity**.
+SFTP dashboard with server status, activity, and overall server overview.
 
 </td>
 
-<td align="center" width="50%" bgcolor="#0d1117">
+<td align="center" width="50%">
+
+<table>
+<tr>
+<td align="center" bgcolor="#161b22">
+
+<br>
 
 <img src="https://github.com/user-attachments/assets/0169bf48-71e1-4501-a1ac-ed10f2a95d45"
-  width="340"
-  alt="ServFlow HTTPS Web Share"
-  style="border-radius: 18px;">
+  width="300"
+  alt="ServFlow HTTPS Web Share">
 
 <br><br>
+
+</td>
+</tr>
+</table>
 
 ### 🌐 HTTPS Web Share
 
-Start and monitor the **HTTPS Web Share** directly from ServFlow and access your shared files through a modern web interface.
+Run and monitor your HTTPS Web Share directly from ServFlow.
 
 </td>
+
 </tr>
 
 <tr>
-<td align="center" width="50%" bgcolor="#0d1117">
+
+<td align="center" width="50%">
+
+<table>
+<tr>
+<td align="center" bgcolor="#161b22">
+
+<br>
 
 <img src="https://github.com/user-attachments/assets/a84c20e0-8002-4c64-b924-1c1162902b83"
-  width="340"
-  alt="ServFlow Server Ports and Authentication"
-  style="border-radius: 18px;">
+  width="300"
+  alt="ServFlow Server Configuration">
 
 <br><br>
+
+</td>
+</tr>
+</table>
 
 ### 🔌 Server & Authentication
 
-Configure your **FTP, SFTP, and HTTPS ports**, choose the required operation, and enable **username and password authentication** for controlled access.
+Configure FTP, SFTP, and HTTPS ports with username and password authentication.
 
 </td>
 
-<td align="center" width="50%" bgcolor="#0d1117">
+<td align="center" width="50%">
+
+<table>
+<tr>
+<td align="center" bgcolor="#161b22">
+
+<br>
 
 <img src="https://github.com/user-attachments/assets/1491b20c-5889-422c-b86a-093f37fa8f5f"
-  width="340"
-  alt="ServFlow Logs"
-  style="border-radius: 18px;">
+  width="300"
+  alt="ServFlow Logs">
 
 <br><br>
-
-### 📋 Server Logs
-
-Keep track of server activity with detailed logs including **All, Success, Info, Warning, and Error** events.
 
 </td>
 </tr>
+</table>
+
+### 📋 Server Logs
+
+View All, Success, Info, Warning, and Error server events.
+
+</td>
+
+</tr>
 
 <tr>
-<td align="center" width="50%" bgcolor="#0d1117">
+
+<td align="center" width="50%">
+
+<table>
+<tr>
+<td align="center" bgcolor="#161b22">
+
+<br>
 
 <img src="https://github.com/user-attachments/assets/afce3104-e2ae-4fd9-b369-7ada8ea20174"
-  width="340"
-  alt="ServFlow Configuration"
-  style="border-radius: 18px;">
+  width="300"
+  alt="ServFlow Configuration">
 
 <br><br>
+
+</td>
+</tr>
+</table>
 
 ### ⚙️ Configuration
 
-Configure your **storage root directory**, SSH daemon **host keys and encryption**, and **public key authentication** from a dedicated configuration panel.
+Manage storage root, SSH host keys, encryption, and public key authentication.
 
 </td>
 
-<td align="center" width="50%" bgcolor="#0d1117">
+<td align="center" width="50%">
+
+<table>
+<tr>
+<td align="center" bgcolor="#161b22">
+
+<br>
 
 <img src="https://github.com/user-attachments/assets/0c41c7ec-84eb-47ae-8276-be2528b3a386"
-  width="340"
-  alt="ServFlow Advanced Settings"
-  style="border-radius: 18px;">
+  width="300"
+  alt="ServFlow Advanced Settings">
 
 <br><br>
 
+</td>
+</tr>
+</table>
+
 ### 🛠️ Advanced Settings
 
-Fine-tune your server with options such as **anonymous login, read-only mode**, and customizable **accent colors** for the interface.
+Configure anonymous login, read-only mode, and interface accent colors.
 
 </td>
+
 </tr>
 </table>
 
