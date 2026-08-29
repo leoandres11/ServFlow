@@ -63,14 +63,23 @@ Whether you need a traditional FTP connection, secure SFTP access, or simply wan
 
 ## 📸 Screenshots
 
-
-
-
 <div align="center">
 
+<table>
+<tr>
+<td align="center" bgcolor="#0d1117" style="padding: 12px;">
+
 <img src="https://github.com/user-attachments/assets/fb3839ce-cb9a-411f-a3b4-5e883c0594eb"
-  alt="ServFlow"
-  style="border: 2px solid #30363d; border-radius: 14px;">
+     width="350"
+     alt="ServFlow Screenshot">
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<sub>ServFlow • Modern Multi-Protocol Server</sub>
 
 </div>
 
