@@ -1,100 +1,125 @@
+# ServFlow
 
+### Multi-Protocol Server • Built with passion by - Arif Khan ❤️
 
-> A modern SFTP server for Android.
+**ServFlow** is a modern, lightweight, and user-friendly file server designed to make file sharing and remote file management simple.
 
-ServFlow allows you to run an SFTP file server directly from your Android device. It provides a simple and modern interface for starting and managing your server while giving you control over network interfaces, IP addresses, ports, and authentication.
-
-## ✨ Features
-
-* 🔐 SFTP server support
-* 🌐 Network interface and IP address selection
-* 🔌 Custom SFTP port
-* 👤 Configurable username and password
-* 💾 Persistent credentials and server configuration
-* ▶️ Simple start and stop controls
-* 📊 Server status and connection information
-* ⚙️ Advanced server settings
-* 🎨 Modern dark glassmorphic interface
-
-## 📱 Preview
-
-<img width="350" height="726" alt="1" src="https://github.com/user-attachments/assets/b2aa2112-4a8f-4669-95a1-a1640d95b1a7" />
-
-
-
-
-
-<img width="350" height="723" alt="2" src="https://github.com/user-attachments/assets/9d846d69-cbe0-4e7d-b2c3-1ead51605d52" />
-
-
-
-
-
-<img width="350" height="725" alt="3" src="https://github.com/user-attachments/assets/5e44f6fe-ebe6-4991-98b5-497d8f284fe1" />
-
-
-
-
-
-<img width="350" height="721" alt="4" src="https://github.com/user-attachments/assets/b876c0a1-dd94-47fa-a926-67d760131c39" />
-
-
-
-
-
-<img width="350" height="724" alt="5" src="https://github.com/user-attachments/assets/0bcf01bd-3cb0-4562-8726-bb0b0740d64c" />
-
-
-
-
-
-<img width="350" height="729" alt="6" src="https://github.com/user-attachments/assets/3a1544be-b203-4f87-ab8a-afdeaed96f6c" />
-
-
-
-
-## ⚙️ Configuration
-
-ServFlow allows you to configure:
-
-* SFTP port
-* Username
-* Password
-* Network interface
-* IP address binding
-* Server startup options
-
-Your username, password, and server configuration remain saved until you manually change them.
-
-## 🔒 Security
-
-Running an SFTP server makes files on your device accessible over a network.
-
-Please:
-
-* Use a strong password.
-* Only share your server with trusted users.
-* Avoid exposing the server directly to the public internet unless you understand the security implications.
-* Only grant the app access to files you intend to share.
-* Review your network and firewall configuration before allowing external connections.
-
-## 🤝 Contributing
-
-Contributions, bug reports, feature requests, and improvements are welcome.
-
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes.
-4. Test the application.
-5. Submit a pull request.
-
-For major changes, please open an issue first to discuss the proposed change.
-
-## 📄 License
-
-This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
-You are free to use, modify, and distribute this project under the terms of the GPL-3.0 license. Any distributed modifications or derivative works must also be licensed under GPL-3.0.
+It brings **FTP, SFTP, and HTTPS Web Share** into one application with a clean and modern interface.
 
 ---
 
-Built with passion by — Arif Khan ❤️
+## ✨ Features
+
+### 📁 FTP Server
+
+* Full FTP server support
+* Easy-to-use configuration
+* Fast file transfers
+* Remote file access
+* Simple server management
+* Designed for reliable file sharing
+
+### 🔐 SFTP Server
+
+* Secure file transfers over SSH
+* Encrypted communication
+* Remote file management
+* Secure authentication
+* Reliable transfer experience
+* Suitable for secure remote access
+
+### 🌐 HTTPS Web Share
+
+* Access and share files directly through a web browser
+* Secure HTTPS connection
+* Modern web-based interface
+* No dedicated client required
+* Easy file browsing and downloading
+* Clean and responsive UI
+
+---
+
+## 🖥️ Modern User Interface
+
+ServFlow focuses on providing a **proper modern UI** instead of making users manage everything through complicated command-line interfaces.
+
+The interface is designed to make server management, file sharing, and remote access straightforward and easy to understand.
+
+---
+
+## 🔄 One Application — Multiple Protocols
+
+ServFlow combines three powerful ways to access your files:
+
+| Protocol  | Purpose                            | Security     |
+| --------- | ---------------------------------- | ------------ |
+| **FTP**   | Fast file transfer & remote access | Standard     |
+| **SFTP**  | Secure file transfer               | 🔒 Encrypted |
+| **HTTPS** | Browser-based file sharing         | 🔒 Encrypted |
+
+Whether you need a traditional FTP connection, secure SFTP access, or simply want to open your files in a browser, **ServFlow brings everything together in one place.**
+
+---
+
+## 📸 Screenshots
+
+<img width="1080" height="2244" alt="1" src="https://github.com/user-attachments/assets/fb3839ce-cb9a-411f-a3b4-5e883c0594eb" />
+
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/fb3839ce-cb9a-411f-a3b4-5e883c0594eb"
+  alt="ServFlow"
+  style="border: 2px solid #30363d; border-radius: 14px;">
+
+</div>
+
+---
+
+## 🚀 Why ServFlow?
+
+* 🎨 Modern and clean UI
+* ⚡ Lightweight
+* 📁 Easy file sharing
+* 🔐 Secure SFTP support
+* 🌐 HTTPS browser-based sharing
+* 🔄 Multiple protocols in one application
+* 🖥️ Designed for Windows
+* ❤️ Built with simplicity in mind
+
+---
+
+## 🛠️ Supported Protocols
+
+**FTP**
+Traditional file transfer and remote access.
+
+**SFTP**
+Secure file transfer using SSH encryption.
+
+**HTTPS Web Share**
+Share and access files securely from any web browser.
+
+---
+
+## 🎯 Project Goal
+
+ServFlow aims to provide a **simple, modern alternative to traditional file-server applications** by combining multiple file-transfer protocols with an easy-to-use graphical interface.
+
+Instead of needing separate applications for different types of file access, ServFlow puts them together in one streamlined experience.
+
+---
+
+## ❤️ Built with Passion
+
+ServFlow is built with a simple idea:
+
+> **File sharing shouldn't be complicated.**
+
+
+
+---
+
+## 📄 License
+
+This project is currently under development.
