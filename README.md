@@ -63,7 +63,7 @@ Whether you need a traditional FTP connection, secure SFTP access, or simply wan
 
 ## 📸 Screenshots
 
-<img width="1080" height="2244" alt="1" src="https://github.com/user-attachments/assets/fb3839ce-cb9a-411f-a3b4-5e883c0594eb" />
+
 
 
 <div align="center">
