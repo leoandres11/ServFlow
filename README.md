@@ -21,16 +21,31 @@ ServFlow allows you to run an SFTP file server directly from your Android device
 <img width="350" height="726" alt="1" src="https://github.com/user-attachments/assets/b2aa2112-4a8f-4669-95a1-a1640d95b1a7" />
 
 
+
+
+
 <img width="350" height="723" alt="2" src="https://github.com/user-attachments/assets/9d846d69-cbe0-4e7d-b2c3-1ead51605d52" />
+
+
+
 
 
 <img width="350" height="725" alt="3" src="https://github.com/user-attachments/assets/5e44f6fe-ebe6-4991-98b5-497d8f284fe1" />
 
 
+
+
+
 <img width="350" height="721" alt="4" src="https://github.com/user-attachments/assets/b876c0a1-dd94-47fa-a926-67d760131c39" />
 
 
+
+
+
 <img width="350" height="724" alt="5" src="https://github.com/user-attachments/assets/0bcf01bd-3cb0-4562-8726-bb0b0740d64c" />
+
+
+
 
 
 <img width="350" height="729" alt="6" src="https://github.com/user-attachments/assets/3a1544be-b203-4f87-ab8a-afdeaed96f6c" />
