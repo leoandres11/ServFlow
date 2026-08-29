@@ -60,18 +60,103 @@ ServFlow combines three powerful ways to access your files:
 Whether you need a traditional FTP connection, secure SFTP access, or simply want to open your files in a browser, **ServFlow brings everything together in one place.**
 
 ---
-
 ## 📸 Screenshots
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" bgcolor="#0d1117" style="padding: 12px;">
+<td align="center" width="50%" bgcolor="#0d1117">
 
 <img src="https://github.com/user-attachments/assets/fb3839ce-cb9a-411f-a3b4-5e883c0594eb"
-     width="350"
-     alt="ServFlow Screenshot">
+  width="340"
+  alt="ServFlow Dashboard"
+  style="border-radius: 18px;">
+
+<br><br>
+
+### 🖥️ Dashboard
+
+Monitor your ServFlow server from one place with an overview of **SFTP, server status, connections, and overall activity**.
+
+</td>
+
+<td align="center" width="50%" bgcolor="#0d1117">
+
+<img src="https://github.com/user-attachments/assets/0169bf48-71e1-4501-a1ac-ed10f2a95d45"
+  width="340"
+  alt="ServFlow HTTPS Web Share"
+  style="border-radius: 18px;">
+
+<br><br>
+
+### 🌐 HTTPS Web Share
+
+Start and monitor the **HTTPS Web Share** directly from ServFlow and access your shared files through a modern web interface.
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%" bgcolor="#0d1117">
+
+<img src="https://github.com/user-attachments/assets/a84c20e0-8002-4c64-b924-1c1162902b83"
+  width="340"
+  alt="ServFlow Server Ports and Authentication"
+  style="border-radius: 18px;">
+
+<br><br>
+
+### 🔌 Server & Authentication
+
+Configure your **FTP, SFTP, and HTTPS ports**, choose the required operation, and enable **username and password authentication** for controlled access.
+
+</td>
+
+<td align="center" width="50%" bgcolor="#0d1117">
+
+<img src="https://github.com/user-attachments/assets/1491b20c-5889-422c-b86a-093f37fa8f5f"
+  width="340"
+  alt="ServFlow Logs"
+  style="border-radius: 18px;">
+
+<br><br>
+
+### 📋 Server Logs
+
+Keep track of server activity with detailed logs including **All, Success, Info, Warning, and Error** events.
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%" bgcolor="#0d1117">
+
+<img src="https://github.com/user-attachments/assets/afce3104-e2ae-4fd9-b369-7ada8ea20174"
+  width="340"
+  alt="ServFlow Configuration"
+  style="border-radius: 18px;">
+
+<br><br>
+
+### ⚙️ Configuration
+
+Configure your **storage root directory**, SSH daemon **host keys and encryption**, and **public key authentication** from a dedicated configuration panel.
+
+</td>
+
+<td align="center" width="50%" bgcolor="#0d1117">
+
+<img src="https://github.com/user-attachments/assets/0c41c7ec-84eb-47ae-8276-be2528b3a386"
+  width="340"
+  alt="ServFlow Advanced Settings"
+  style="border-radius: 18px;">
+
+<br><br>
+
+### 🛠️ Advanced Settings
+
+Fine-tune your server with options such as **anonymous login, read-only mode**, and customizable **accent colors** for the interface.
 
 </td>
 </tr>
@@ -79,9 +164,16 @@ Whether you need a traditional FTP connection, secure SFTP access, or simply wan
 
 <br>
 
-<sub>ServFlow • Modern Multi-Protocol Server</sub>
+### 🚀 One Application. Three Protocols.
+
+**FTP • SFTP • HTTPS Web Share**
 
 </div>
+
+---
+
+
+
 
 ---
 
