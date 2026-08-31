@@ -376,15 +376,3 @@ ServFlow is provided **without warranty**, as permitted by the GPL-3.0.
 See the [`LICENSE`](LICENSE) file for the complete license terms.
 
 ---
-
-<div align="center">
-
-### 🚀 One Application. Three Protocols.
-
-**FTP • SFTP • HTTPS Web Share**
-
-**ServFlow — Multi-Protocol Server**
-
-**Built with passion by Arif Khan ❤️**
-
-</div>
