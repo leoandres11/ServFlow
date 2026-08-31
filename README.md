@@ -1,7 +1,5 @@
 # ServFlow
 
-### Multi-Protocol Server • Built with passion by - Arif Khan ❤️
-
 **ServFlow** is a modern, lightweight, and user-friendly file server designed to make file sharing and remote file management simple.
 
 It brings **FTP, SFTP, and HTTPS Web Share** into one application with a clean and modern interface.
@@ -34,8 +32,14 @@ It brings **FTP, SFTP, and HTTPS Web Share** into one application with a clean a
 * Secure HTTPS connection
 * Modern web-based interface
 * No dedicated client required
-* Easy file browsing and downloading
-* Clean and responsive UI
+* Advanced file management
+* Multi-select file operations
+* Live transfer progress
+* Activity logs
+* Recycle bin and file recovery
+* Quick access categories
+* Music and image browsing
+* Mobile-friendly file sharing
 
 ---
 
@@ -60,9 +64,10 @@ ServFlow combines three powerful ways to access your files:
 Whether you need a traditional FTP connection, secure SFTP access, or simply want to open your files in a browser, **ServFlow brings everything together in one place.**
 
 ---
-## 📸 Screenshots
 
-### 🖥️ Dashboard
+# 📸 Screenshots
+
+## 🖥️ ServFlow Dashboard
 
 <div align="center">
 
@@ -88,33 +93,131 @@ ServFlow's dashboard provides a complete overview of the server, including **SFT
 
 ---
 
-### 🌐 HTTPS Web Share
+## 🌐 HTTPS Web Share
+
+The **Web Share** is more than a basic file browser. ServFlow provides a complete browser-based file management experience with advanced controls for transferring, organizing, and managing files.
+
+### 📂 File Browser
+
+Browse your shared files and folders directly from your web browser with a clean and simple file-management interface.
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" bgcolor="#161b22">
-
-<br>
-
-<img src="https://github.com/user-attachments/assets/0169bf48-71e1-4501-a1ac-ed10f2a95d45"
-  width="330"
-  alt="ServFlow HTTPS Web Share">
-
-<br><br>
-
-</td>
-</tr>
-</table>
+<img src="https://github.com/user-attachments/assets/cb4a7e58-36a0-43e7-9360-e61e73505844"
+  width="850"
+  alt="ServFlow Web Share File Browser">
 
 </div>
 
-Start and monitor the **HTTPS Web Share** directly from ServFlow and access shared files through a modern web browser.
+---
+
+### 🖼️ Images & Activity
+
+View images with a dedicated **folder/category bar** while keeping track of activity through the built-in activity log.
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/80f5f958-e536-4620-8876-86214df924dc"
+  width="850"
+  alt="ServFlow Web Share Images and Activity">
+
+</div>
 
 ---
 
-### 🔌 Server & Authentication
+### 🎵 Music Quick Access
+
+Quickly access your music files through the dedicated **Music** section, making media browsing faster and easier.
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/6d68e84d-b487-4aba-b905-223b39b3cf06"
+  width="850"
+  alt="ServFlow Web Share Music">
+
+</div>
+
+---
+
+### 📱 Mobile App & File Extraction
+
+Download and extract supported apps/files from your phone and save them directly into a selected folder.
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/0280f4a3-a793-4fc1-a17a-eb2813ac8097"
+  width="850"
+  alt="ServFlow Web Share App Extraction">
+
+</div>
+
+---
+
+### 📤 Advanced Transfers
+
+Perform multiple file operations with advanced multi-select controls.
+
+The transfer system provides:
+
+* Multi-file selection
+* Upload and download controls
+* Live transfer progress
+* Pause and resume
+* Cancel transfers
+* Total downloaded amount
+* Total uploaded amount
+* Real-time transfer activity
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/41a688fe-50b1-4eac-b985-5e382d09a94f"
+  width="850"
+  alt="ServFlow Web Share Advanced Transfers">
+
+</div>
+
+---
+
+### 🗑️ Recycle Bin & Recovery
+
+The Web Share includes a dedicated **Recycle Bin** for safer file management.
+
+Features include:
+
+* View deleted files
+* Restore selected files
+* Empty the recycle bin
+* Automatically delete items after a configurable period
+* Choose an automatic deletion period of **1–3 hours**
+* Restore files when needed before permanent deletion
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/08994900-f1e9-4401-a216-14e566e7301d"
+  width="850"
+  alt="ServFlow Web Share Recycle Bin">
+
+</div>
+
+---
+
+### 🔄 Reset ServFlow
+
+ServFlow also provides a **Reset ServFlow** option for starting fresh.
+
+Resetting ServFlow clears application data such as:
+
+* Transfer history
+* Activity logs
+* Recycle Bin contents
+* Saved Web Share data
+* Other related application settings
+
+This provides a clean way to return ServFlow to a fresh state.
+
+---
+
+## ⚙️ Server Configuration
 
 <div align="center">
 
@@ -140,7 +243,7 @@ Configure **FTP, SFTP, and HTTPS ports**, select server operations, and protect 
 
 ---
 
-### 📋 Server Logs
+## 📋 Server Logs
 
 <div align="center">
 
@@ -166,7 +269,7 @@ Monitor server activity with organized logs for **All, Success, Info, Warning, a
 
 ---
 
-### ⚙️ Configuration
+## ⚙️ Configuration
 
 <div align="center">
 
@@ -192,7 +295,7 @@ Manage the **storage root directory**, SSH daemon **host keys and encryption**, 
 
 ---
 
-### 🛠️ Advanced Settings
+## 🛠️ Advanced Settings
 
 <div align="center">
 
@@ -218,27 +321,16 @@ Fine-tune ServFlow with **anonymous login, read-only mode**, and customizable **
 
 ---
 
-<div align="center">
-
-### 🚀 One Application. Three Protocols.
-
-**FTP • SFTP • HTTPS Web Share**
-
-</div>
-
-
-
-
-
----
-
 ## 🚀 Why ServFlow?
 
 * 🎨 Modern and clean UI
 * ⚡ Lightweight
 * 📁 Easy file sharing
 * 🔐 Secure SFTP support
-* 🌐 HTTPS browser-based sharing
+* 🌐 Advanced HTTPS Web Share
+* 📤 Advanced upload and download controls
+* 📋 Activity and transfer monitoring
+* 🗑️ Recycle Bin and file recovery
 * 🔄 Multiple protocols in one application
 * 🖥️ Designed for Windows
 * ❤️ Built with simplicity in mind
@@ -254,7 +346,7 @@ Traditional file transfer and remote access.
 Secure file transfer using SSH encryption.
 
 **HTTPS Web Share**
-Share and access files securely from any web browser.
+Advanced browser-based file sharing and file management.
 
 ---
 
@@ -272,14 +364,28 @@ ServFlow is built with a simple idea:
 
 > **File sharing shouldn't be complicated.**
 
+---
 
+## 📄 License
+
+ServFlow is open-source software licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
+
+If you distribute ServFlow or a modified version of it, you must comply with the terms of the GPL-3.0 license.
+
+ServFlow is provided **without warranty**, as permitted by the GPL-3.0.
+
+See the [`LICENSE`](LICENSE) file for the complete license terms.
 
 ---
 
-📌 GPL-3.0 Requirements
+<div align="center">
 
-If you distribute ServFlow or a modified version of it, you must comply with the terms of the GPL-3.0 license, including providing the corresponding source code and keeping the same license for derivative works where required by the license.
+### 🚀 One Application. Three Protocols.
 
-ServFlow is provided without warranty, as permitted by the GPL-3.0.
+**FTP • SFTP • HTTPS Web Share**
 
----
+**ServFlow — Multi-Protocol Server**
+
+**Built with passion by Arif Khan ❤️**
+
+</div>
