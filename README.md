@@ -69,7 +69,9 @@ Whether you need a traditional FTP connection, secure SFTP access, or simply wan
 
 # 📸 Screenshots
 
-## 🖥️ ServFlow Dashboard
+# 📸 Application Screenshots
+
+### 🖥️ Dashboard
 
 <div align="center">
 
@@ -91,135 +93,37 @@ Whether you need a traditional FTP connection, secure SFTP access, or simply wan
 
 </div>
 
-ServFlow's dashboard provides a complete overview of the server, including **SFTP status, server activity, and overall server information**.
+ServFlow's dashboard provides an overview of **SFTP status, server activity, and overall server information**.
 
 ---
 
-## 🌐 HTTPS Web Share
-
-The **Web Share** is more than a basic file browser. ServFlow provides a complete browser-based file management experience with advanced controls for transferring, organizing, and managing files.
-
-### 📂 File Browser
-
-Browse your shared files and folders directly from your web browser with a clean and simple file-management interface.
+### 🌐 Web Share Server
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/cb4a7e58-36a0-43e7-9360-e61e73505844"
-  width="850"
-  alt="ServFlow Web Share File Browser">
+<table>
+<tr>
+<td align="center" bgcolor="#161b22">
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/0169bf48-71e1-4501-a1ac-ed10f2a95d45"
+  width="330"
+  alt="ServFlow Web Share">
+
+<br><br>
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
-
-### 🖼️ Images & Activity
-
-View images with a dedicated **folder/category bar** while keeping track of activity through the built-in activity log.
-
-<div align="center">
-
-<img src="https://github.com/user-attachments/assets/80f5f958-e536-4620-8876-86214df924dc"
-  width="850"
-  alt="ServFlow Web Share Images and Activity">
-
-</div>
+Start and monitor the **HTTPS Web Share** directly from ServFlow.
 
 ---
 
-### 🎵 Music Quick Access
-
-Quickly access your music files through the dedicated **Music** section, making media browsing faster and easier.
-
-<div align="center">
-
-<img src="https://github.com/user-attachments/assets/6d68e84d-b487-4aba-b905-223b39b3cf06"
-  width="850"
-  alt="ServFlow Web Share Music">
-
-</div>
-
----
-
-### 📱 Mobile App & File Extraction
-
-Download and extract supported apps/files from your phone and save them directly into a selected folder.
-
-<div align="center">
-
-<img src="https://github.com/user-attachments/assets/0280f4a3-a793-4fc1-a17a-eb2813ac8097"
-  width="850"
-  alt="ServFlow Web Share App Extraction">
-
-</div>
-
----
-
-### 📤 Advanced Transfers
-
-Perform multiple file operations with advanced multi-select controls.
-
-The transfer system provides:
-
-* Multi-file selection
-* Upload and download controls
-* Live transfer progress
-* Pause and resume
-* Cancel transfers
-* Total downloaded amount
-* Total uploaded amount
-* Real-time transfer activity
-
-<div align="center">
-
-<img src="https://github.com/user-attachments/assets/41a688fe-50b1-4eac-b985-5e382d09a94f"
-  width="850"
-  alt="ServFlow Web Share Advanced Transfers">
-
-</div>
-
----
-
-### 🗑️ Recycle Bin & Recovery
-
-The Web Share includes a dedicated **Recycle Bin** for safer file management.
-
-Features include:
-
-* View deleted files
-* Restore selected files
-* Empty the recycle bin
-* Automatically delete items after a configurable period
-* Choose an automatic deletion period of **1–3 hours**
-* Restore files when needed before permanent deletion
-
-<div align="center">
-
-<img src="https://github.com/user-attachments/assets/08994900-f1e9-4401-a216-14e566e7301d"
-  width="850"
-  alt="ServFlow Web Share Recycle Bin">
-
-</div>
-
----
-
-### 🔄 Reset ServFlow
-
-ServFlow also provides a **Reset ServFlow** option for starting fresh.
-
-Resetting ServFlow clears application data such as:
-
-* Transfer history
-* Activity logs
-* Recycle Bin contents
-* Saved Web Share data
-* Other related application settings
-
-This provides a clean way to return ServFlow to a fresh state.
-
----
-
-## ⚙️ Server Configuration
+### 🔌 Server & Authentication
 
 <div align="center">
 
@@ -231,7 +135,7 @@ This provides a clean way to return ServFlow to a fresh state.
 
 <img src="https://github.com/user-attachments/assets/a84c20e0-8002-4c64-b924-1c1162902b83"
   width="330"
-  alt="ServFlow Server and Authentication">
+  alt="ServFlow Server Authentication">
 
 <br><br>
 
@@ -241,11 +145,11 @@ This provides a clean way to return ServFlow to a fresh state.
 
 </div>
 
-Configure **FTP, SFTP, and HTTPS ports**, select server operations, and protect access with **username and password authentication**.
+Configure **FTP, SFTP, and HTTPS ports** with username and password authentication.
 
 ---
 
-## 📋 Server Logs
+### 📋 Server Logs
 
 <div align="center">
 
@@ -257,7 +161,7 @@ Configure **FTP, SFTP, and HTTPS ports**, select server operations, and protect 
 
 <img src="https://github.com/user-attachments/assets/1491b20c-5889-422c-b86a-093f37fa8f5f"
   width="330"
-  alt="ServFlow Server Logs">
+  alt="ServFlow Logs">
 
 <br><br>
 
@@ -267,11 +171,11 @@ Configure **FTP, SFTP, and HTTPS ports**, select server operations, and protect 
 
 </div>
 
-Monitor server activity with organized logs for **All, Success, Info, Warning, and Error** events.
+Monitor **All, Success, Info, Warning, and Error** events from one place.
 
 ---
 
-## ⚙️ Configuration
+### ⚙️ Configuration
 
 <div align="center">
 
@@ -293,11 +197,11 @@ Monitor server activity with organized logs for **All, Success, Info, Warning, a
 
 </div>
 
-Manage the **storage root directory**, SSH daemon **host keys and encryption**, and **public key authentication** from the configuration panel.
+Configure the **storage root directory, SSH host keys, encryption, and public key authentication**.
 
 ---
 
-## 🛠️ Advanced Settings
+### 🛠️ Advanced Settings
 
 <div align="center">
 
@@ -319,7 +223,100 @@ Manage the **storage root directory**, SSH daemon **host keys and encryption**, 
 
 </div>
 
-Fine-tune ServFlow with **anonymous login, read-only mode**, and customizable **accent colors**.
+Configure **anonymous login, read-only mode, and interface accent colors**.
+
+---
+
+# 🌐 HTTPS Web Share
+
+### 📂 File Browser
+
+<img src="https://github.com/user-attachments/assets/cb4a7e58-36a0-43e7-9360-e61e73505844"
+  width="100%"
+  alt="ServFlow Web Share File Browser">
+
+Browse files and folders directly from your browser using the modern **HTTPS Web Share** interface.
+
+---
+
+### 🖼️ Images & Activity
+
+<img src="https://github.com/user-attachments/assets/80f5f958-e536-4620-8876-86214df924dc"
+  width="100%"
+  alt="ServFlow Web Share Images and Activity">
+
+View images through dedicated categories while monitoring activity through the built-in **activity log**.
+
+---
+
+### 🎵 Music Quick Access
+
+<img src="https://github.com/user-attachments/assets/6d68e84d-b487-4aba-b905-223b39b3cf06"
+  width="100%"
+  alt="ServFlow Web Share Music">
+
+Quickly access your music through the dedicated **Music** section.
+
+---
+
+### 📱 App Extraction
+
+<img src="https://github.com/user-attachments/assets/0280f4a3-a793-4fc1-a17a-eb2813ac8097"
+  width="100%"
+  alt="ServFlow Web Share App Extraction">
+
+Extract supported apps from your phone and download them directly into a selected folder.
+
+---
+
+### 📤 Advanced Transfer Manager
+
+<img src="https://github.com/user-attachments/assets/41a688fe-50b1-4eac-b985-5e382d09a94f"
+  width="100%"
+  alt="ServFlow Web Share Advanced Transfers">
+
+Advanced transfer management with:
+
+* Multi-file selection
+* Upload and download
+* Live progress bars
+* Pause and resume
+* Cancel transfers
+* Total uploaded amount
+* Total downloaded amount
+
+---
+
+### 🗑️ Recycle Bin
+
+<img src="https://github.com/user-attachments/assets/08994900-f1e9-4401-a216-14e566e7301d"
+  width="100%"
+  alt="ServFlow Web Share Recycle Bin">
+
+A dedicated Recycle Bin provides safer file management with:
+
+* Deleted file management
+* File restoration
+* Empty Recycle Bin
+* Automatic deletion after a selected **1–3 hour** period
+* Restore files before permanent deletion
+
+---
+
+## 🔄 Reset ServFlow
+
+The Web Share also includes a **Reset ServFlow** option to start fresh by clearing relevant application data, including **transfers, activity logs, Recycle Bin data, and Web Share data**.
+
+---
+
+<div align="center">
+
+### 🚀 One Application. Three Protocols.
+
+**FTP • SFTP • HTTPS Web Share**
+
+</div>
+
 
 ---
 
