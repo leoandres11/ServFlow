@@ -8,6 +8,22 @@ It brings **FTP, SFTP, and HTTPS Web Share** into one application with a clean a
 
 ---
 
+## 🤖 Built with AI
+
+ServFlow was built **entirely with AI assistance** using **ChatGPT** and **Google AI Studio**.
+
+I’m not a professional programmer, and I didn’t have a traditional coding background when I started building ServFlow. I designed the ideas, features, interface, behavior, and overall vision, while AI helped turn those ideas into a working Android application.
+
+ServFlow grew through continuous **testing, debugging, redesigning, and improving** — one feature and one bug at a time.
+
+> **Idea → Prompt → AI → Build → Test → Fix → Improve → ServFlow 🚀**
+
+This project is my experiment in seeing how far I can take a real-world Android application with **AI-assisted development, curiosity, and persistence**.
+
+**Built with AI, experimentation, and a lot of trial and error. ❤️**
+
+--- 
+
 ## ✨ Features
 
 ### 📁 FTP Server
