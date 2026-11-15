@@ -13,13 +13,15 @@ A modern way to share, access, and manage your files.
 <img src="https://img.shields.io/badge/FTP-SUPPORTED-00C7FF?style=for-the-badge&logo=files&logoColor=white"/>
 <img src="https://img.shields.io/badge/SFTP-ENCRYPTED-00C7FF?style=for-the-badge&logo=openssh&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTTPS-WEB%20SHARE-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/WIFI-LOCAL-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WIFI%20DIRECT-PEER--TO--PEER-8B5CF6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LICENSE-GPL--3.0-8B5CF6?style=for-the-badge"/>
 
 <br/><br/>
 
-**FTP &nbsp; • &nbsp; SFTP &nbsp; • &nbsp; HTTPS WEB SHARE**
+**FTP &nbsp; • &nbsp; SFTP &nbsp; • &nbsp; HTTPS &nbsp; • &nbsp; WIFI LOCAL &nbsp; • &nbsp; WIFI DIRECT**
 
-*One Application. Multiple Possibilities.*
+*One Application. Multiple Ways to Share.*
 
 </div>
 
@@ -27,17 +29,17 @@ A modern way to share, access, and manage your files.
 
 ## 🌌 About ServFlow
 
-**ServFlow** is a modern, lightweight, and user-friendly file server designed to make file sharing and remote file management simple.
+**ServFlow** is a modern, lightweight, and user-friendly file-sharing application designed to make file sharing and remote file management simple.
 
-It combines three powerful protocols into one application:
+It combines multiple file-sharing technologies into one application:
 
 - 📁 **FTP** — Traditional file transfer and remote access.
 - 🔐 **SFTP** — Secure file transfers over SSH.
 - 🌐 **HTTPS Web Share** — Access and manage files directly through a browser.
+- 📡 **ServFlow Local** — Wireless file sharing through Wi-Fi networks and mobile hotspots.
+- ⚡ **ServFlow Flash** — Direct peer-to-peer file sharing using Wi-Fi Direct.
 
-No complicated command-line interfaces. No need to manage multiple server applications.
-
-**Everything comes together in one clean and modern experience.**
+From traditional server-based transfers to direct wireless device-to-device sharing, **ServFlow brings everything together in one place.**
 
 ---
 
@@ -47,86 +49,131 @@ No complicated command-line interfaces. No need to manage multiple server applic
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ### 📁 FTP SERVER
 
-Fast and reliable file transfer.
+Traditional and reliable file transfer.
 
+- Full FTP server support
+- Easy server configuration
+- Fast file transfers
 - Remote file access
-- Easy configuration
-- Fast transfers
-- Server management
+- Simple server management
+- Convenient file sharing across devices
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ### 🔐 SFTP SERVER
 
-Secure remote file management.
+Secure file transfers powered by SSH.
 
-- SSH encryption
+- Encrypted communication
 - Secure authentication
-- Remote file access
-- Reliable transfers
+- Remote file management
+- SSH-based file transfers
+- Configurable server settings
+- Reliable remote access
 
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ### 🌐 HTTPS WEB SHARE
 
-Access files through any browser.
+Manage and access files through any modern browser.
 
-- Modern web interface
 - Secure HTTPS connection
-- Browser-based access
+- Modern web-based interface
 - No dedicated client required
+- Advanced file management
+- Multi-file operations
+- Live transfer progress
+- Activity logs
+- Recycle Bin and file recovery
+- Music and image browsing
+- Mobile-friendly interface
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-### ⚡ ADVANCED FILE MANAGEMENT
+### 📡 SERVFLOW LOCAL
 
-Powerful file management tools.
+Share files locally using Wi-Fi or mobile hotspots.
 
-- Multi-file selection
-- Live transfer progress
-- Pause and resume
-- Upload and download
+- Local network file sharing
+- Wi-Fi hotspot connectivity
+- Transfer files between connected devices
+- No internet connection required
+- Convenient wireless file access
+- Ideal for nearby device sharing
 
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-### 🗑️ RECYCLE BIN
+### ⚡ SERVFLOW FLASH
 
-Safer file management.
+Fast peer-to-peer file sharing using Wi-Fi Direct.
 
-- Restore deleted files
-- Manage deleted items
-- Empty Recycle Bin
-- Automatic cleanup
+- Direct device-to-device sharing
+- Wi-Fi Direct connectivity
+- No traditional Wi-Fi router required
+- No internet connection required
+- Wireless peer-to-peer transfers
+- Designed for quick local file sharing
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-### 📊 ACTIVITY MONITORING
+### 🗂️ ADVANCED FILE MANAGEMENT
 
-Keep track of server activity.
+Powerful tools for managing files and transfers.
 
-- Activity logs
-- Transfer monitoring
-- Success and error events
-- Server information
+- Multi-file selection
+- Upload and download controls
+- Live transfer progress
+- Pause and resume transfers
+- Cancel active transfers
+- Uploaded and downloaded statistics
+- Recycle Bin and file restoration
 
 </td>
 </tr>
 </table>
 
 </div>
+
+---
+
+## 📡 More Ways to Share with ServFlow
+
+ServFlow goes beyond traditional file-server protocols by introducing two additional wireless sharing methods.
+
+### 📶 ServFlow Local — Wi-Fi & Hotspot Sharing
+
+Share files between devices connected to the same local Wi-Fi network or mobile hotspot.
+
+- Connect devices through an existing Wi-Fi network.
+- Use a mobile hotspot for local sharing.
+- Transfer files wirelessly between connected devices.
+- No internet connection required.
+
+**Connect locally. Share wirelessly. No internet required.**
+
+### ⚡ ServFlow Flash — Wi-Fi Direct Sharing
+
+Experience direct peer-to-peer file sharing using Wi-Fi Direct technology, allowing compatible devices to communicate without relying on a traditional Wi-Fi router.
+
+- Direct device-to-device connectivity.
+- Wi-Fi Direct-based communication.
+- No traditional Wi-Fi router required.
+- No internet connection required.
+
+**Device to device. Direct connection. Wireless sharing.**
 
 ---
 
@@ -472,21 +519,21 @@ The Web Share includes a **Reset ServFlow** option to start fresh by clearing re
 
 ---
 
-# 🔄 Protocol Overview
+## 🔄 Five Ways to Share
 
 <div align="center">
 
-| Feature | FTP | SFTP | HTTPS |
-|:---|:---:|:---:|:---:|
-| File Transfer | ✅ | ✅ | ✅ |
-| Remote Access | ✅ | ✅ | ✅ |
-| Encrypted Connection | — | 🔒 | 🔒 |
-| Browser Interface | — | — | ✅ |
-| SSH Based | — | ✅ | — |
+| Sharing Method | Technology | Connection |
+|:---|:---|:---|
+| 📁 FTP | File Transfer Protocol | Network |
+| 🔐 SFTP | SSH File Transfer | Encrypted Network |
+| 🌐 HTTPS | Browser-based Sharing | Secure Network |
+| 📡 ServFlow Local | Wi-Fi / Mobile Hotspot | Local Network |
+| ⚡ ServFlow Flash | Wi-Fi Direct | Peer-to-Peer |
 
 </div>
 
-Whether you need traditional file transfer, encrypted remote access, or browser-based file management, **ServFlow brings everything together.**
+Whether you need traditional file transfer, encrypted remote access, browser-based file management, local Wi-Fi sharing, or direct peer-to-peer transfers, **ServFlow brings everything together.**
 
 ---
 
@@ -521,18 +568,18 @@ SFTP and HTTPS support.
 </td>
 <td width="50%" align="center">
 
-### 🌐 Web Based
+### 📡 Wireless Sharing
 
-Manage files directly through a browser.
+Wi-Fi, hotspot and Wi-Fi Direct connectivity.
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 
-### 📊 Smart Monitoring
+### 🌐 Flexible Access
 
-Activity and transfer monitoring.
+Multiple ways to access and share files.
 
 </td>
 <td width="50%" align="center">
@@ -569,9 +616,9 @@ This project demonstrates how far curiosity, experimentation, persistence, and A
 
 ## 🎯 Project Goal
 
-ServFlow aims to provide a **simple, modern alternative to traditional file-server applications** by combining multiple file-transfer protocols with an easy-to-use graphical interface.
+ServFlow aims to provide a **simple, modern alternative to traditional file-server applications** by combining multiple file-transfer protocols and wireless sharing technologies with an easy-to-use graphical interface.
 
-Instead of needing separate applications for different types of file access, ServFlow puts them together in one streamlined experience.
+Instead of needing separate applications for different types of file access and sharing, ServFlow puts them together in one streamlined experience.
 
 ---
 
@@ -581,7 +628,7 @@ Instead of needing separate applications for different types of file access, Ser
 
 # File Sharing Shouldn't Be Complicated.
 
-### One Application. Three Protocols. Endless Possibilities.
+### One Application. Five Ways to Share. Endless Possibilities.
 
 </div>
 
@@ -603,7 +650,7 @@ See the [`LICENSE`](LICENSE) file for the complete license terms.
 
 # 🚀 ServFlow
 
-**FTP &nbsp; • &nbsp; SFTP &nbsp; • &nbsp; HTTPS Web Share**
+**FTP &nbsp; • &nbsp; SFTP &nbsp; • &nbsp; HTTPS &nbsp; • &nbsp; LOCAL &nbsp; • &nbsp; FLASH**
 
 *Built with AI. Driven by Imagination. Made with ❤️*
 
