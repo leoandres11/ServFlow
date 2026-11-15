@@ -10,10 +10,10 @@ A modern way to share, access, and manage your files.
 
 <br/>
 
-<img src="https://img.shields.io/badge/FTP-Supported-00C7FF?style=for-the-badge&logo=files&logoColor=white" />
-<img src="https://img.shields.io/badge/SFTP-Encrypted-00C7FF?style=for-the-badge&logo=openssh&logoColor=white" />
-<img src="https://img.shields.io/badge/HTTPS-Web%20Share-00C7FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
-<img src="https://img.shields.io/badge/License-GPL--3.0-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FTP-SUPPORTED-00C7FF?style=for-the-badge&logo=files&logoColor=white"/>
+<img src="https://img.shields.io/badge/SFTP-ENCRYPTED-00C7FF?style=for-the-badge&logo=openssh&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTTPS-WEB%20SHARE-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/LICENSE-GPL--3.0-8B5CF6?style=for-the-badge"/>
 
 <br/><br/>
 
@@ -45,70 +45,83 @@ No complicated command-line interfaces. No need to manage multiple server applic
 
 <div align="center">
 
-| 📁 FTP SERVER | 🔐 SFTP SERVER |
-|:---:|:---:|
-| Fast file transfers | SSH-encrypted communication |
-| Remote file access | Secure authentication |
-| Simple configuration | Remote file management |
-| Easy server management | Reliable secure transfers |
-
-| 🌐 HTTPS WEB SHARE | ⚡ FILE MANAGEMENT |
-|:---:|:---:|
-| Browser-based access | Multi-file selection |
-| Modern web interface | Upload and download |
-| Secure HTTPS connection | Live transfer progress |
-| No dedicated client required | Pause, resume and cancel |
-
-| 🗑️ RECYCLE BIN | 📊 ACTIVITY MONITORING |
-|:---:|:---:|
-| Deleted file management | Live activity logs |
-| Restore deleted files | Success and error events |
-| Automatic cleanup | Transfer monitoring |
-| Safer file management | Server activity tracking |
-
-</div>
-
----
-
-## 🖥️ Application Interface
-
-ServFlow is designed around a modern graphical interface that makes server management simple and accessible.
-
-<div align="center">
-
-### 📱 Mobile Application Showcase
-
 <table>
 <tr>
-<td align="center" width="50%">
-<img src="https://github.com/user-attachments/assets/ee53486f-fce8-4f6d-989d-f6afae58802e" width="220" alt="ServFlow 1"/>
+<td width="50%" align="center">
+
+### 📁 FTP SERVER
+
+Fast and reliable file transfer.
+
+- Remote file access
+- Easy configuration
+- Fast transfers
+- Server management
+
 </td>
-<td align="center" width="50%">
-<img src="https://github.com/user-attachments/assets/aa57a6a2-0802-412f-b84f-08727f49ebe7" width="220" alt="ServFlow 2"/>
+<td width="50%" align="center">
+
+### 🔐 SFTP SERVER
+
+Secure remote file management.
+
+- SSH encryption
+- Secure authentication
+- Remote file access
+- Reliable transfers
+
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
-<img src="https://github.com/user-attachments/assets/b9b6e17b-97af-4e29-93c9-347eec9fa483" width="220" alt="ServFlow 3"/>
+<td width="50%" align="center">
+
+### 🌐 HTTPS WEB SHARE
+
+Access files through any browser.
+
+- Modern web interface
+- Secure HTTPS connection
+- Browser-based access
+- No dedicated client required
+
 </td>
-<td align="center" width="50%">
-<img src="https://github.com/user-attachments/assets/ff3d4c33-7345-4d29-9400-9d81a439294f" width="220" alt="ServFlow 4"/>
+<td width="50%" align="center">
+
+### ⚡ ADVANCED FILE MANAGEMENT
+
+Powerful file management tools.
+
+- Multi-file selection
+- Live transfer progress
+- Pause and resume
+- Upload and download
+
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
-<img src="https://github.com/user-attachments/assets/392e5cc2-5feb-4348-9a26-faab80adba77" width="220" alt="ServFlow 5"/>
+<td width="50%" align="center">
+
+### 🗑️ RECYCLE BIN
+
+Safer file management.
+
+- Restore deleted files
+- Manage deleted items
+- Empty Recycle Bin
+- Automatic cleanup
+
 </td>
-<td align="center" width="50%">
-<img src="https://github.com/user-attachments/assets/b4511c84-c8bd-4950-a4d7-0a2c6763cdf4" width="220" alt="ServFlow 6"/>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<img src="https://github.com/user-attachments/assets/53996271-2d85-41fe-8caf-ca719eed14ac" width="220" alt="ServFlow 7"/>
-</td>
-<td align="center" width="50%">
-<img src="https://github.com/user-attachments/assets/ac43e3af-3086-48bf-a128-d595a1f3bddd" width="220" alt="ServFlow 8"/>
+<td width="50%" align="center">
+
+### 📊 ACTIVITY MONITORING
+
+Keep track of server activity.
+
+- Activity logs
+- Transfer monitoring
+- Success and error events
+- Server information
+
 </td>
 </tr>
 </table>
@@ -117,17 +130,194 @@ ServFlow is designed around a modern graphical interface that makes server manag
 
 ---
 
-# 🌐 HTTPS WEB SHARE
+# 📱 Mobile Application Showcase
 
-### Access your files from any browser
+<div align="center">
 
-ServFlow includes a modern web-based file management interface. Connect through a browser and manage your files remotely without installing a dedicated client.
+**A clean, modern and intuitive mobile experience.**
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
+
+<table width="100%" bgcolor="#111827" cellpadding="8" cellspacing="0">
+<tr>
+<td align="center" bgcolor="#050B14">
+<br/>
+<sub>● &nbsp; ━━━━━ &nbsp; ●</sub>
+<br/><br/>
+<img src="https://github.com/user-attachments/assets/ee53486f-fce8-4f6d-989d-f6afae58802e" width="190" alt="ServFlow Mobile Screenshot 1"/>
+<br/><br/>
+<sub>━━━━━━━━━━━━</sub>
+<br/>
+</td>
+</tr>
+</table>
+
+</td>
+<td align="center" width="50%" valign="top">
+
+<table width="100%" bgcolor="#111827" cellpadding="8" cellspacing="0">
+<tr>
+<td align="center" bgcolor="#050B14">
+<br/>
+<sub>● &nbsp; ━━━━━ &nbsp; ●</sub>
+<br/><br/>
+<img src="https://github.com/user-attachments/assets/aa57a6a2-0802-412f-b84f-08727f49ebe7" width="190" alt="ServFlow Mobile Screenshot 2"/>
+<br/><br/>
+<sub>━━━━━━━━━━━━</sub>
+<br/>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+
+<table width="100%" bgcolor="#111827" cellpadding="8" cellspacing="0">
+<tr>
+<td align="center" bgcolor="#050B14">
+<br/>
+<sub>● &nbsp; ━━━━━ &nbsp; ●</sub>
+<br/><br/>
+<img src="https://github.com/user-attachments/assets/b9b6e17b-97af-4e29-93c9-347eec9fa483" width="190" alt="ServFlow Mobile Screenshot 3"/>
+<br/><br/>
+<sub>━━━━━━━━━━━━</sub>
+<br/>
+</td>
+</tr>
+</table>
+
+</td>
+<td align="center" width="50%" valign="top">
+
+<table width="100%" bgcolor="#111827" cellpadding="8" cellspacing="0">
+<tr>
+<td align="center" bgcolor="#050B14">
+<br/>
+<sub>● &nbsp; ━━━━━ &nbsp; ●</sub>
+<br/><br/>
+<img src="https://github.com/user-attachments/assets/ff3d4c33-7345-4d29-9400-9d81a439294f" width="190" alt="ServFlow Mobile Screenshot 4"/>
+<br/><br/>
+<sub>━━━━━━━━━━━━</sub>
+<br/>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+
+<table width="100%" bgcolor="#111827" cellpadding="8" cellspacing="0">
+<tr>
+<td align="center" bgcolor="#050B14">
+<br/>
+<sub>● &nbsp; ━━━━━ &nbsp; ●</sub>
+<br/><br/>
+<img src="https://github.com/user-attachments/assets/392e5cc2-5feb-4348-9a26-faab80adba77" width="190" alt="ServFlow Mobile Screenshot 5"/>
+<br/><br/>
+<sub>━━━━━━━━━━━━</sub>
+<br/>
+</td>
+</tr>
+</table>
+
+</td>
+<td align="center" width="50%" valign="top">
+
+<table width="100%" bgcolor="#111827" cellpadding="8" cellspacing="0">
+<tr>
+<td align="center" bgcolor="#050B14">
+<br/>
+<sub>● &nbsp; ━━━━━ &nbsp; ●</sub>
+<br/><br/>
+<img src="https://github.com/user-attachments/assets/b4511c84-c8bd-4950-a4d7-0a2c6763cdf4" width="190" alt="ServFlow Mobile Screenshot 6"/>
+<br/><br/>
+<sub>━━━━━━━━━━━━</sub>
+<br/>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+
+<table width="100%" bgcolor="#111827" cellpadding="8" cellspacing="0">
+<tr>
+<td align="center" bgcolor="#050B14">
+<br/>
+<sub>● &nbsp; ━━━━━ &nbsp; ●</sub>
+<br/><br/>
+<img src="https://github.com/user-attachments/assets/53996271-2d85-41fe-8caf-ca719eed14ac" width="190" alt="ServFlow Mobile Screenshot 7"/>
+<br/><br/>
+<sub>━━━━━━━━━━━━</sub>
+<br/>
+</td>
+</tr>
+</table>
+
+</td>
+<td align="center" width="50%" valign="top">
+
+<table width="100%" bgcolor="#111827" cellpadding="8" cellspacing="0">
+<tr>
+<td align="center" bgcolor="#050B14">
+<br/>
+<sub>● &nbsp; ━━━━━ &nbsp; ●</sub>
+<br/><br/>
+<img src="https://github.com/user-attachments/assets/ac43e3af-3086-48bf-a128-d595a1f3bddd" width="190" alt="ServFlow Mobile Screenshot 8"/>
+<br/><br/>
+<sub>━━━━━━━━━━━━</sub>
+<br/>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 💻 HTTPS Web Share Showcase
+
+<div align="center">
+
+### Your files. Your browser. Your control.
+
+A modern browser-based file management experience.
+
+</div>
 
 ## 🔑 Login Interface
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/c4e2cc00-6c61-4d27-9a92-c84e79a758ea" width="95%" alt="ServFlow Web Share Login"/>
+<table width="100%" bgcolor="#101827" cellpadding="10" cellspacing="0">
+<tr>
+<td align="center" bgcolor="#080D16">
+<sub>● &nbsp; ● &nbsp; ● &nbsp; &nbsp; SERVFLOW WEB SHARE</sub>
+<br/><br/>
+<img src="https://github.com/user-attachments/assets/c4e2cc00-6c61-4d27-9a92-c84e79a758ea" width="100%" alt="ServFlow Web Share Login"/>
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#263449">
+<sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -135,17 +325,45 @@ ServFlow includes a modern web-based file management interface. Connect through 
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/c7639e3b-da2c-4867-b6bb-bca3739b0283" width="95%" alt="ServFlow File Browser"/>
+<table width="100%" bgcolor="#101827" cellpadding="10" cellspacing="0">
+<tr>
+<td align="center" bgcolor="#080D16">
+<sub>● &nbsp; ● &nbsp; ● &nbsp; &nbsp; SERVFLOW WEB SHARE</sub>
+<br/><br/>
+<img src="https://github.com/user-attachments/assets/c7639e3b-da2c-4867-b6bb-bca3739b0283" width="100%" alt="ServFlow File Browser"/>
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#263449">
+<sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
-Browse files and folders directly through the browser using the modern HTTPS Web Share interface.
+Browse files and folders directly through your browser using the modern **HTTPS Web Share** interface.
 
 ## 🖼️ Images & Activity
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/e6f704a8-79dc-4c3a-acbf-15ca3b37bb5d" width="95%" alt="ServFlow Images and Activity"/>
+<table width="100%" bgcolor="#101827" cellpadding="10" cellspacing="0">
+<tr>
+<td align="center" bgcolor="#080D16">
+<sub>● &nbsp; ● &nbsp; ● &nbsp; &nbsp; SERVFLOW WEB SHARE</sub>
+<br/><br/>
+<img src="https://github.com/user-attachments/assets/e6f704a8-79dc-4c3a-acbf-15ca3b37bb5d" width="100%" alt="ServFlow Images and Activity"/>
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#263449">
+<sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -155,7 +373,21 @@ View images through dedicated categories while monitoring activity through the b
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/f0095b5f-b66f-4830-92c5-bd55c558819d" width="95%" alt="ServFlow App Extraction"/>
+<table width="100%" bgcolor="#101827" cellpadding="10" cellspacing="0">
+<tr>
+<td align="center" bgcolor="#080D16">
+<sub>● &nbsp; ● &nbsp; ● &nbsp; &nbsp; SERVFLOW WEB SHARE</sub>
+<br/><br/>
+<img src="https://github.com/user-attachments/assets/f0095b5f-b66f-4830-92c5-bd55c558819d" width="100%" alt="ServFlow App Extraction"/>
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#263449">
+<sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -165,7 +397,21 @@ Extract supported apps from your phone and download them directly into a selecte
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/3630c543-c7e3-4916-b84b-9d83e46da5e2" width="95%" alt="ServFlow Recycle Bin"/>
+<table width="100%" bgcolor="#101827" cellpadding="10" cellspacing="0">
+<tr>
+<td align="center" bgcolor="#080D16">
+<sub>● &nbsp; ● &nbsp; ● &nbsp; &nbsp; SERVFLOW WEB SHARE</sub>
+<br/><br/>
+<img src="https://github.com/user-attachments/assets/3630c543-c7e3-4916-b84b-9d83e46da5e2" width="100%" alt="ServFlow Recycle Bin"/>
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#263449">
+<sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -199,7 +445,21 @@ Powerful transfer controls make managing uploads and downloads easier.
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/378f9f46-a4b9-41f3-8e05-9f583c8c6ebd" width="95%" alt="ServFlow Reset"/>
+<table width="100%" bgcolor="#101827" cellpadding="10" cellspacing="0">
+<tr>
+<td align="center" bgcolor="#080D16">
+<sub>● &nbsp; ● &nbsp; ● &nbsp; &nbsp; SERVFLOW WEB SHARE</sub>
+<br/><br/>
+<img src="https://github.com/user-attachments/assets/378f9f46-a4b9-41f3-8e05-9f583c8c6ebd" width="100%" alt="ServFlow Reset"/>
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#263449">
+<sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -212,21 +472,21 @@ The Web Share includes a **Reset ServFlow** option to start fresh by clearing re
 
 ---
 
-## 🔄 Protocol Overview
+# 🔄 Protocol Overview
 
 <div align="center">
 
-| | FTP | SFTP | HTTPS |
-|:---:|:---:|:---:|:---:|
+| Feature | FTP | SFTP | HTTPS |
+|:---|:---:|:---:|:---:|
 | File Transfer | ✅ | ✅ | ✅ |
 | Remote Access | ✅ | ✅ | ✅ |
-| Encryption | — | 🔒 | 🔒 |
+| Encrypted Connection | — | 🔒 | 🔒 |
 | Browser Interface | — | — | ✅ |
 | SSH Based | — | ✅ | — |
 
 </div>
 
-Whether you need traditional file transfer, encrypted remote access, or browser-based file management, ServFlow brings everything together.
+Whether you need traditional file transfer, encrypted remote access, or browser-based file management, **ServFlow brings everything together.**
 
 ---
 
@@ -234,25 +494,58 @@ Whether you need traditional file transfer, encrypted remote access, or browser-
 
 <div align="center">
 
-| ⚡ Lightweight | 🎨 Modern UI |
-|:---:|:---:|
-| Designed for simplicity | Clean graphical interface |
+<table>
+<tr>
+<td width="50%" align="center">
 
-| 🔐 Secure Access | 🌐 Web Based |
-|:---:|:---:|
-| SFTP and HTTPS support | Access files through a browser |
+### ⚡ Lightweight
 
-| 📊 Smart Monitoring | 🗑️ Safer Management |
-|:---:|:---:|
-| Activity and transfer logs | Recycle Bin and recovery |
+Designed with simplicity and efficiency in mind.
+
+</td>
+<td width="50%" align="center">
+
+### 🎨 Modern UI
+
+A clean and user-friendly graphical interface.
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 🔐 Secure Access
+
+SFTP and HTTPS support.
+
+</td>
+<td width="50%" align="center">
+
+### 🌐 Web Based
+
+Manage files directly through a browser.
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 📊 Smart Monitoring
+
+Activity and transfer monitoring.
+
+</td>
+<td width="50%" align="center">
+
+### 🗑️ Safer Management
+
+Recycle Bin and file recovery.
+
+</td>
+</tr>
+</table>
 
 </div>
-
-- One application for multiple protocols
-- Simple server configuration
-- Advanced file management
-- Modern browser experience
-- Designed with usability in mind
 
 ---
 
@@ -284,13 +577,11 @@ Instead of needing separate applications for different types of file access, Ser
 
 ## ❤️ Built with Passion
 
-ServFlow is built around one simple idea:
-
 <div align="center">
 
 # File Sharing Shouldn't Be Complicated.
 
-**One Application. Three Protocols. Endless Possibilities.**
+### One Application. Three Protocols. Endless Possibilities.
 
 </div>
 
@@ -312,10 +603,10 @@ See the [`LICENSE`](LICENSE) file for the complete license terms.
 
 # 🚀 ServFlow
 
-### FTP • SFTP • HTTPS Web Share
+**FTP &nbsp; • &nbsp; SFTP &nbsp; • &nbsp; HTTPS Web Share**
 
-**Built with AI. Driven by Imagination. Made with ❤️**
+*Built with AI. Driven by Imagination. Made with ❤️*
 
-*Developed by Arif Khan*
+**Developed by Arif Khan**
 
 </div>
