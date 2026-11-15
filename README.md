@@ -1,10 +1,18 @@
-# ServFlow
+# 🚀 ServFlow
 
 ### Multi-Protocol Server • Built with passion by Arif Khan ❤️
 
 **ServFlow** is a modern, lightweight, and user-friendly file server designed to make file sharing and remote file management simple.
 
-It brings **FTP, SFTP, and HTTPS Web Share** into one application with a clean and modern interface.
+It brings **FTP, SFTP, and HTTPS Web Share** into one application with a clean, modern, and futuristic interface.
+
+<div align="center">
+
+**FTP &nbsp;•&nbsp; SFTP &nbsp;•&nbsp; HTTPS WEB SHARE**
+
+*One Application. Multiple Possibilities.*
+
+</div>
 
 ---
 
@@ -74,7 +82,7 @@ The interface is designed to make server management, file sharing, and remote ac
 ServFlow combines three powerful ways to access your files:
 
 | Protocol | Purpose | Security |
-|---|---|---|
+|:---:|---|:---:|
 | **FTP** | Fast file transfer & remote access | Standard |
 | **SFTP** | Secure file transfer | 🔒 Encrypted |
 | **HTTPS** | Browser-based file sharing | 🔒 Encrypted |
@@ -83,25 +91,44 @@ Whether you need a traditional FTP connection, secure SFTP access, or simply wan
 
 ---
 
-## 📸 Application Screenshots
+## 📸 Application Showcase
 
 <div align="center">
 
-<img width="1080" height="3201" alt="1" src="https://github.com/user-attachments/assets/ee53486f-fce8-4f6d-989d-f6afae58802e" />
-
-<img width="1080" height="2400" alt="2" src="https://github.com/user-attachments/assets/aa57a6a2-0802-412f-b84f-08727f49ebe7" />
-
-<img width="1080" height="2400" alt="3" src="https://github.com/user-attachments/assets/b9b6e17b-97af-4e29-93c9-347eec9fa483" />
-
-<img width="1080" height="2400" alt="4" src="https://github.com/user-attachments/assets/ff3d4c33-7345-4d29-9400-9d81a439294f" />
-
-<img width="1080" height="2400" alt="5" src="https://github.com/user-attachments/assets/392e5cc2-5feb-4348-9a26-faab80adba77" />
-
-<img width="1080" height="2400" alt="6" src="https://github.com/user-attachments/assets/b4511c84-c8bd-4950-a4d7-0a2c6763cdf4" />
-
-<img width="1080" height="2400" alt="7" src="https://github.com/user-attachments/assets/53996271-2d85-41fe-8caf-ca719eed14ac" />
-
-<img width="1080" height="2400" alt="8" src="https://github.com/user-attachments/assets/ac43e3af-3086-48bf-a128-d595a1f3bddd" />
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github.com/user-attachments/assets/ee53486f-fce8-4f6d-989d-f6afae58802e" width="220" alt="ServFlow Screenshot 1"/>
+</td>
+<td align="center" width="50%">
+<img src="https://github.com/user-attachments/assets/aa57a6a2-0802-412f-b84f-08727f49ebe7" width="220" alt="ServFlow Screenshot 2"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://github.com/user-attachments/assets/b9b6e17b-97af-4e29-93c9-347eec9fa483" width="220" alt="ServFlow Screenshot 3"/>
+</td>
+<td align="center" width="50%">
+<img src="https://github.com/user-attachments/assets/ff3d4c33-7345-4d29-9400-9d81a439294f" width="220" alt="ServFlow Screenshot 4"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://github.com/user-attachments/assets/392e5cc2-5feb-4348-9a26-faab80adba77" width="220" alt="ServFlow Screenshot 5"/>
+</td>
+<td align="center" width="50%">
+<img src="https://github.com/user-attachments/assets/b4511c84-c8bd-4950-a4d7-0a2c6763cdf4" width="220" alt="ServFlow Screenshot 6"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://github.com/user-attachments/assets/53996271-2d85-41fe-8caf-ca719eed14ac" width="220" alt="ServFlow Screenshot 7"/>
+</td>
+<td align="center" width="50%">
+<img src="https://github.com/user-attachments/assets/ac43e3af-3086-48bf-a128-d595a1f3bddd" width="220" alt="ServFlow Screenshot 8"/>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -151,15 +178,22 @@ A dedicated Recycle Bin provides safer file management with:
 
 ## 🔄 Reset ServFlow
 
-The Web Share also includes a **Reset ServFlow** option to start fresh by clearing relevant application data, including **transfers, activity logs, Recycle Bin data, and Web Share data**.
+The Web Share also includes a **Reset ServFlow** option to start fresh by clearing relevant application data, including:
+
+- Transfers
+- Activity logs
+- Recycle Bin data
+- Web Share data
 
 ---
 
 <div align="center">
 
-### 🚀 One Application. Three Protocols.
+## 🚀 ONE APPLICATION. THREE PROTOCOLS.
 
-**FTP • SFTP • HTTPS Web Share**
+### FTP &nbsp;•&nbsp; SFTP &nbsp;•&nbsp; HTTPS
+
+**Modern File Sharing. Simplified.**
 
 </div>
 
@@ -222,3 +256,11 @@ If you distribute ServFlow or a modified version of it, you must comply with the
 ServFlow is provided **without warranty**, as permitted by the GPL-3.0.
 
 See the [`LICENSE`](LICENSE) file for the complete license terms.
+
+---
+
+<div align="center">
+
+**ServFlow — Built with AI, driven by imagination. ❤️**
+
+</div>
