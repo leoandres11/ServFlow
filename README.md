@@ -1,6 +1,6 @@
 # ServFlow
 
-### Multi-Protocol Server • Built with passion by - Arif Khan ❤️
+### Multi-Protocol Server • Built with passion by Arif Khan ❤️
 
 **ServFlow** is a modern, lightweight, and user-friendly file server designed to make file sharing and remote file management simple.
 
@@ -12,52 +12,52 @@ It brings **FTP, SFTP, and HTTPS Web Share** into one application with a clean a
 
 ServFlow was built **entirely with AI assistance** using **ChatGPT** and **Google AI Studio**.
 
-I’m not a professional programmer, and I didn’t have a traditional coding background when I started building ServFlow. I designed the ideas, features, interface, behavior, and overall vision, while AI helped turn those ideas into a working Android application.
+I'm not a professional programmer, and I didn't have a traditional coding background when I started building ServFlow. I designed the ideas, features, interface, behavior, and overall vision, while AI helped turn those ideas into a working application.
 
 ServFlow grew through continuous **testing, debugging, redesigning, and improving** — one feature and one bug at a time.
 
 > **Idea → Prompt → AI → Build → Test → Fix → Improve → ServFlow 🚀**
 
-This project is my experiment in seeing how far I can take a real-world Android application with **AI-assisted development, curiosity, and persistence**.
+This project is my experiment in seeing how far I can take a real-world application with **AI-assisted development, curiosity, and persistence**.
 
 **Built with AI, experimentation, and a lot of trial and error. ❤️**
 
---- 
+---
 
 ## ✨ Features
 
 ### 📁 FTP Server
 
-* Full FTP server support
-* Easy-to-use configuration
-* Fast file transfers
-* Remote file access
-* Simple server management
-* Designed for reliable file sharing
+- Full FTP server support
+- Easy-to-use configuration
+- Fast file transfers
+- Remote file access
+- Simple server management
+- Designed for reliable file sharing
 
 ### 🔐 SFTP Server
 
-* Secure file transfers over SSH
-* Encrypted communication
-* Remote file management
-* Secure authentication
-* Reliable transfer experience
-* Suitable for secure remote access
+- Secure file transfers over SSH
+- Encrypted communication
+- Remote file management
+- Secure authentication
+- Reliable transfer experience
+- Suitable for secure remote access
 
 ### 🌐 HTTPS Web Share
 
-* Access and share files directly through a web browser
-* Secure HTTPS connection
-* Modern web-based interface
-* No dedicated client required
-* Advanced file management
-* Multi-select file operations
-* Live transfer progress
-* Activity logs
-* Recycle bin and file recovery
-* Quick access categories
-* Music and image browsing
-* Mobile-friendly file sharing
+- Access and share files directly through a web browser
+- Secure HTTPS connection
+- Modern web-based interface
+- No dedicated client required
+- Advanced file management
+- Multi-select file operations
+- Live transfer progress
+- Activity logs
+- Recycle Bin and file recovery
+- Quick access categories
+- Music and image browsing
+- Mobile-friendly file sharing
 
 ---
 
@@ -73,249 +73,79 @@ The interface is designed to make server management, file sharing, and remote ac
 
 ServFlow combines three powerful ways to access your files:
 
-| Protocol  | Purpose                            | Security     |
-| --------- | ---------------------------------- | ------------ |
-| **FTP**   | Fast file transfer & remote access | Standard     |
-| **SFTP**  | Secure file transfer               | 🔒 Encrypted |
-| **HTTPS** | Browser-based file sharing         | 🔒 Encrypted |
+| Protocol | Purpose | Security |
+|---|---|---|
+| **FTP** | Fast file transfer & remote access | Standard |
+| **SFTP** | Secure file transfer | 🔒 Encrypted |
+| **HTTPS** | Browser-based file sharing | 🔒 Encrypted |
 
 Whether you need a traditional FTP connection, secure SFTP access, or simply want to open your files in a browser, **ServFlow brings everything together in one place.**
 
 ---
 
-# 📸 Screenshots
-
-# 📸 Application Screenshots
-
-### 🖥️ Dashboard
+## 📸 Application Screenshots
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" bgcolor="#161b22">
+<img width="1080" height="3201" alt="1" src="https://github.com/user-attachments/assets/ee53486f-fce8-4f6d-989d-f6afae58802e" />
 
-<br>
+<img width="1080" height="2400" alt="2" src="https://github.com/user-attachments/assets/aa57a6a2-0802-412f-b84f-08727f49ebe7" />
 
-<img src="https://github.com/user-attachments/assets/fb3839ce-cb9a-411f-a3b4-5e883c0594eb"
-  width="330"
-  alt="ServFlow Dashboard">
+<img width="1080" height="2400" alt="3" src="https://github.com/user-attachments/assets/b9b6e17b-97af-4e29-93c9-347eec9fa483" />
 
-<br><br>
+<img width="1080" height="2400" alt="4" src="https://github.com/user-attachments/assets/ff3d4c33-7345-4d29-9400-9d81a439294f" />
 
-</td>
-</tr>
-</table>
+<img width="1080" height="2400" alt="5" src="https://github.com/user-attachments/assets/392e5cc2-5feb-4348-9a26-faab80adba77" />
 
-</div>
+<img width="1080" height="2400" alt="6" src="https://github.com/user-attachments/assets/b4511c84-c8bd-4950-a4d7-0a2c6763cdf4" />
 
-ServFlow's dashboard provides an overview of **SFTP status, server activity, and overall server information**.
+<img width="1080" height="2400" alt="7" src="https://github.com/user-attachments/assets/53996271-2d85-41fe-8caf-ca719eed14ac" />
 
----
-
-### 🌐 Web Share Server
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" bgcolor="#161b22">
-
-<br>
-
-<img src="https://github.com/user-attachments/assets/0169bf48-71e1-4501-a1ac-ed10f2a95d45"
-  width="330"
-  alt="ServFlow Web Share">
-
-<br><br>
-
-</td>
-</tr>
-</table>
+<img width="1080" height="2400" alt="8" src="https://github.com/user-attachments/assets/ac43e3af-3086-48bf-a128-d595a1f3bddd" />
 
 </div>
 
-Start and monitor the **HTTPS Web Share** directly from ServFlow.
-
 ---
 
-### 🔌 Server & Authentication
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" bgcolor="#161b22">
-
-<br>
-
-<img src="https://github.com/user-attachments/assets/a84c20e0-8002-4c64-b924-1c1162902b83"
-  width="330"
-  alt="ServFlow Server Authentication">
-
-<br><br>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-Configure **FTP, SFTP, and HTTPS ports** with username and password authentication.
-
----
-
-### 📋 Server Logs
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" bgcolor="#161b22">
-
-<br>
-
-<img src="https://github.com/user-attachments/assets/1491b20c-5889-422c-b86a-093f37fa8f5f"
-  width="330"
-  alt="ServFlow Logs">
-
-<br><br>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-Monitor **All, Success, Info, Warning, and Error** events from one place.
-
----
-
-### ⚙️ Configuration
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" bgcolor="#161b22">
-
-<br>
-
-<img src="https://github.com/user-attachments/assets/afce3104-e2ae-4fd9-b369-7ada8ea20174"
-  width="330"
-  alt="ServFlow Configuration">
-
-<br><br>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-Configure the **storage root directory, SSH host keys, encryption, and public key authentication**.
-
----
-
-### 🛠️ Advanced Settings
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" bgcolor="#161b22">
-
-<br>
-
-<img src="https://github.com/user-attachments/assets/0c41c7ec-84eb-47ae-8276-be2528b3a386"
-  width="330"
-  alt="ServFlow Advanced Settings">
-
-<br><br>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-Configure **anonymous login, read-only mode, and interface accent colors**.
-
----
-
-# 🌐 HTTPS Web Share
+## 🌐 HTTPS Web Share
 
 ### 📂 File Browser
 
-<img src="https://github.com/user-attachments/assets/cb4a7e58-36a0-43e7-9360-e61e73505844"
-  width="100%"
-  alt="ServFlow Web Share File Browser">
-
 Browse files and folders directly from your browser using the modern **HTTPS Web Share** interface.
-
----
 
 ### 🖼️ Images & Activity
 
-<img src="https://github.com/user-attachments/assets/80f5f958-e536-4620-8876-86214df924dc"
-  width="100%"
-  alt="ServFlow Web Share Images and Activity">
-
 View images through dedicated categories while monitoring activity through the built-in **activity log**.
-
----
 
 ### 🎵 Music Quick Access
 
-<img src="https://github.com/user-attachments/assets/6d68e84d-b487-4aba-b905-223b39b3cf06"
-  width="100%"
-  alt="ServFlow Web Share Music">
-
 Quickly access your music through the dedicated **Music** section.
-
----
 
 ### 📱 App Extraction
 
-<img src="https://github.com/user-attachments/assets/0280f4a3-a793-4fc1-a17a-eb2813ac8097"
-  width="100%"
-  alt="ServFlow Web Share App Extraction">
-
 Extract supported apps from your phone and download them directly into a selected folder.
-
----
 
 ### 📤 Advanced Transfer Manager
 
-<img src="https://github.com/user-attachments/assets/41a688fe-50b1-4eac-b985-5e382d09a94f"
-  width="100%"
-  alt="ServFlow Web Share Advanced Transfers">
-
 Advanced transfer management with:
 
-* Multi-file selection
-* Upload and download
-* Live progress bars
-* Pause and resume
-* Cancel transfers
-* Total uploaded amount
-* Total downloaded amount
-
----
+- Multi-file selection
+- Upload and download
+- Live progress bars
+- Pause and resume
+- Cancel transfers
+- Total uploaded amount
+- Total downloaded amount
 
 ### 🗑️ Recycle Bin
 
-<img src="https://github.com/user-attachments/assets/08994900-f1e9-4401-a216-14e566e7301d"
-  width="100%"
-  alt="ServFlow Web Share Recycle Bin">
-
 A dedicated Recycle Bin provides safer file management with:
 
-* Deleted file management
-* File restoration
-* Empty Recycle Bin
-* Automatic deletion after a selected **1–3 hour** period
-* Restore files before permanent deletion
+- Deleted file management
+- File restoration
+- Empty Recycle Bin
+- Automatic deletion after a selected **1–3 hour** period
+- Restore files before permanent deletion
 
 ---
 
@@ -333,34 +163,36 @@ The Web Share also includes a **Reset ServFlow** option to start fresh by cleari
 
 </div>
 
-
 ---
 
 ## 🚀 Why ServFlow?
 
-* 🎨 Modern and clean UI
-* ⚡ Lightweight
-* 📁 Easy file sharing
-* 🔐 Secure SFTP support
-* 🌐 Advanced HTTPS Web Share
-* 📤 Advanced upload and download controls
-* 📋 Activity and transfer monitoring
-* 🗑️ Recycle Bin and file recovery
-* 🔄 Multiple protocols in one application
-* 🖥️ Designed for Windows
-* ❤️ Built with simplicity in mind
+- 🎨 Modern and clean UI
+- ⚡ Lightweight
+- 📁 Easy file sharing
+- 🔐 Secure SFTP support
+- 🌐 Advanced HTTPS Web Share
+- 📤 Advanced upload and download controls
+- 📋 Activity and transfer monitoring
+- 🗑️ Recycle Bin and file recovery
+- 🔄 Multiple protocols in one application
+- 🖥️ Designed for Windows
+- ❤️ Built with simplicity in mind
 
 ---
 
 ## 🛠️ Supported Protocols
 
 **FTP**
+
 Traditional file transfer and remote access.
 
 **SFTP**
+
 Secure file transfer using SSH encryption.
 
 **HTTPS Web Share**
+
 Advanced browser-based file sharing and file management.
 
 ---
@@ -390,5 +222,3 @@ If you distribute ServFlow or a modified version of it, you must comply with the
 ServFlow is provided **without warranty**, as permitted by the GPL-3.0.
 
 See the [`LICENSE`](LICENSE) file for the complete license terms.
-
----
